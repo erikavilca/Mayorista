@@ -1,10 +1,11 @@
 import { FaShoppingCart } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 
 function CartWidget (){
     return(
-        <div className="carrito">
-            <FaShoppingCart size="20px"/>
+        <div className="cart">
+            <FaShoppingCart />
             <span className="numCantidad">10</span>
         </div>
     )

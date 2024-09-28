@@ -6,7 +6,6 @@ import Blog from "./paginas/Blog";
 import NoPage from "./paginas/NoPage";
 import Productos from "./paginas/Productos";
 import ProductosDetallados from "./paginas/ProductosDetallados";
-
 import "./App.css";
 
 function App() {
